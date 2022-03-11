@@ -1,2 +1,2 @@
-# factory DesignP attern
+# factory Design Pattern
 Learning Factory Design Pattern
