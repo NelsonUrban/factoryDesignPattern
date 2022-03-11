@@ -1,0 +1,14 @@
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.exe
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.deps.json
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.runtimeconfig.json
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.runtimeconfig.dev.json
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.dll
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\bin\Debug\netcoreapp3.1\FactoryDesingPattern.pdb
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.csproj.AssemblyReference.cache
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.AssemblyInfoInputs.cache
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.AssemblyInfo.cs
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.dll
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.pdb
+C:\Users\nurban\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\netcoreapp3.1\FactoryDesingPattern.genruntimeconfig.cache
